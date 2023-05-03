@@ -3,7 +3,7 @@
 Independently completed all assignments for McGill's reinforcement learning course taught by Prof. Doina Precup.
 
 ## Assignment 1
-Experimented with the k-armed bandit problem. 
+Experimented with the k-armed bandit problem: implemented the epsilon-greedy, UCB, and Thompson sampling algorithms and tested them on different hyperparameter values; computed and plotted regret
 
 ## Assignment 2
 Implemented and compared the performance of SARSA and expected SARSA on the Frozen Lake domain from OpenAI Gym;
